@@ -10837,3 +10837,19 @@ section {
   padding-top: 9rem;
   padding-bottom: 9rem;
 }
+#services div.catalogo{
+  border-radius: 5%;
+  display: flex;
+  row-gap: 0.5rem;
+  column-gap: 0.5rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 5%;
+}
+#services div.catalogo img{
+  max-width: 50%;
+}
+#services div.catalogo p{
+  vertical-align: middle;
+  font-family: 'Times New Roman', Times, serif;
+}
