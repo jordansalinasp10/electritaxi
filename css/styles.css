@@ -11070,3 +11070,12 @@ body{
   background: #000;
 }
 
+li img{
+  display: inline-block;
+  max-width: 100%;
+  max-height: 100%; 
+  vertical-align: middle;
+}
+li{
+  text-align: center;
+}
